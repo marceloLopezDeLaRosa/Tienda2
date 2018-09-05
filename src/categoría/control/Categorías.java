@@ -1,5 +1,5 @@
 package categoría.control;
-
+// Modificado en la rama pruebas
 import java.util.ArrayList;
 import java.util.Iterator;
 
