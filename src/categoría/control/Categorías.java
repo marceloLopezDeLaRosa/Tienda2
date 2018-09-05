@@ -1,5 +1,5 @@
 package categoría.control;
-
+// Línea añadida
 import java.util.ArrayList;
 import java.util.Iterator;
 
